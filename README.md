@@ -43,5 +43,5 @@ https://movie-recommender-y1a6.onrender.com
 - Procfile  
 - setup.sh  
 
-## 🎯 Goal
+##  Goal
 To recommend movies using Machine Learning.
