@@ -12,7 +12,7 @@ similarity = pickle.load(open('similarity.pkl', 'rb'))
 
 # ------------------- POSTER FETCH FUNCTION (OMDb) -------------------
 def fetch_poster(movie_title):
-    api_key = "253bfdfe"  # 🔴 yaha apni OMDb API key daalna
+    api_key = "253bfdfe"  
     url = f"http://www.omdbapi.com/?t={movie_title}&apikey={api_key}"
 
     data = requests.get(url).json()
