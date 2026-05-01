@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-## 📌 Project Description
+##  Project Description
 This is a Machine Learning based Movie Recommendation System built using Python.  
 It uses Content-Based Filtering to recommend movies based on similarity between movies.
 
@@ -11,7 +11,7 @@ A similarity matrix is created using vectorization techniques, which helps in re
 
 The project is deployed using Streamlit and hosted on Render.
 
-## ⚙️ Technologies Used
+##  Technologies Used
 - Python  
 - Pandas  
 - NumPy  
@@ -20,22 +20,22 @@ The project is deployed using Streamlit and hosted on Render.
 - Machine Learning (Content-Based Filtering)  
 - TMDB Dataset  
 
-## 🚀 Features
+##  Features
 - Movie recommendation based on similarity  
 - Content-based filtering system  
 - Interactive web interface  
 - Fast and simple recommendations  
 
-## 🌐 Live Demo
+##  Live Demo
 https://movie-recommender-y1a6.onrender.com
 
-## 🧠 How It Works
+##  How It Works
 1. Dataset of movies is processed  
 2. Features are extracted  
 3. Similarity matrix is computed  
 4. User selects movie → recommendations shown  
 
-## 📂 Project Files
+##  Project Files
 - app.py  
 - movies_dict.pkl  
 - similarity.pkl  
